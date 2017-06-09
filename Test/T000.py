@@ -19,5 +19,3 @@ while True:
         print(int(reply) ** 2)
 print('Bye')
 
-a = 8fdf
-b = 9
