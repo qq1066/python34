@@ -18,4 +18,3 @@ while True:
     else:
         print(int(reply) ** 2)
 print('Bye')
-
