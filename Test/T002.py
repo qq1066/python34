@@ -29,3 +29,14 @@ a,b,c,d = 'spam' #序列复制运算，通用性
 a, *d = 'spam' #扩展的序列解包（Python 3.0)
 spam = ham = 'lunch' #多目标赋值运算
 spams += 42 #增强赋值运算（相当于 spams = spams + 42)
+#序列赋值
+nudge = 1
+wink =2
+A, B = nudge, wink
+print(A, B)
+[C, D] = [nudge,wink]
+print(C, D)
+
+
+
+
